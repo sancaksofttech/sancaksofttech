@@ -31,7 +31,7 @@
 
 Bu hesaptaki seçili çalışmalar, farklı teknik yaklaşımları incelemek için bir başlangıç noktasıdır.
 
-- **[Confirmix-Labs](https://github.com/sancaksofttech/Confirmix-Labs)** — Go ile hibrit PoA / Proof of Humanity blockchain denemesi ve Next.js arayüzü.
+- **[Confirmix-Labs](https://github.com/sancaksofttech/Confirmix-Labs)** — [ConfirmixLabs/Confirmix-Labs](https://github.com/ConfirmixLabs/Confirmix-Labs) deposunun fork’u; Go ile hibrit PoA / Proof of Humanity blockchain denemesi ve Next.js arayüzü.
 - **[ticketing](https://github.com/sancaksofttech/ticketing)** — TypeScript, Docker ve Skaffold ile kimlik doğrulama servisi çalışması.
 - **[Dynamic-Sales-NFT-Contract](https://github.com/sancaksofttech/Dynamic-Sales-NFT-Contract)** — Kademeli NFT satış fiyatları ve sınır geçişlerindeki hesaplama mantığı.
 - **[Staked-Contract](https://github.com/sancaksofttech/Staked-Contract)** — Solidity ile stake kayıtlarının yönetimi üzerine deneysel çalışma.
