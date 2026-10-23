@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="SancakSoft — Yazılım geliştirme ve teknoloji danışmanlığı">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d31"/><stop offset="1" stop-color="#183748"/></linearGradient></defs>
+<rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+<rect x="56" y="54" width="44" height="5" rx="2.5" fill="#5eead4"/>
+<text x="56" y="126" fill="#f3f8fc" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">SancakSoft</text>
+<text x="58" y="174" fill="#c8dbe5" font-family="Segoe UI,Arial,sans-serif" font-size="25">Yazılım geliştirme ve teknoloji danışmanlığı</text>
+<text x="58" y="228" fill="#7edbcf" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2">WEB · MOBİL · YAPAY ZEKÂ · OTOMASYON · WEB3</text>
+<path d="M1048 84 L1007 140 L1048 196 M1104 84 L1145 140 L1104 196" fill="none" stroke="#5eead4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+</svg>
